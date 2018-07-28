@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shoocal</string>
+    <string name="req">Request By</string>
+    <string-array name="requestby">
+        <item>Request By </item>
+        <item>Owner</item>
+        <item>Manager</item>
+        <item>Other</item>
+    </string-array>
+</resources>
